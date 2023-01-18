@@ -1,0 +1,24 @@
+{
+  "name": "tlc_tsc",
+  "version": "1.0.0",
+  "description": "타입스크립트 실습을 통해 포켓몬 사이트, 지난 세탁소 프로젝트 타입스크립트로 구현해보기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bulid": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsl150101/tlc_tsc_study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsl150101/tlc_tsc_study/issues"
+  },
+  "homepage": "https://github.com/rsl150101/tlc_tsc_study#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
