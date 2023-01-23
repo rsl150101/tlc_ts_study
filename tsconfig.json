@@ -1,6 +1,7 @@
 {
   "include": ["src"],
   "compilerOptions": {
+    "rootDir": "./src",
     "outDir": "build",
     "target": "ES2021",
     "esModuleInterop": true,
