@@ -3,7 +3,7 @@
   "compilerOptions": {
     "rootDir": "./src",
     "outDir": "build",
-    "target": "ES2021",
+    "target": "ES5",
     "esModuleInterop": true,
     // CommonJS 방식으로 내보낸 모듈을 ES6 모듈 방식으로 가져올 수 있음
     // 참조 : https://simsimjae.medium.com/es모듈방식과-commonjs-모듈-방식을-섞어-사용하기-esmoduleinterop-65529471948e

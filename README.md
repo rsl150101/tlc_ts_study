@@ -2,6 +2,14 @@
 
 > 타입스크립트 실습을 통해 포켓몬 사이트, 지난 세탁소 프로젝트 타입스크립트로 구현해보기
 
+## 설치 모듈
+
+- ts-node, typescript
+
+  ```bash
+  npm i ts-node typescript -D
+  ```
+
 ## ✏️ 1일차
 
 > 타입스크립트 사용 이유
@@ -15,9 +23,9 @@
 
 ## ✏️ 2일차
 
-> 기본 문법과 인터페이스
+> 기초 문법과 인터페이스
 
-### 기본 문법
+### 기초 문법
 
 - #### 논리형
   실습 파일 : [boolean.ts](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day2/basic/boolean.ts)
@@ -60,3 +68,24 @@
   실습 파일 : [interface-class.ts](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day2/interface/interface-class.ts)
 - #### 확장
   실습 파일 : [extends.ts](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day2/interface/extends.ts)
+
+## ✏️ 3일차
+
+> 기초 문법과 포켓몬 API 를 활용해서 간단한 사이트 만들기
+
+### 기초 문법
+
+- #### 함수
+  실습파일 : [function.ts](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day3/basic/function.ts)
+- #### 리터럴 타입
+  실습파일 : [literal_type.ts](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day3/basic/literal_type.ts)
+- #### 유니언과 교차 타입
+  실습파일 : [union_intersection.ts](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day3/basic/union_intersection.ts)
+- #### type, interface 차이
+  실습파일 : [type_interface_diff.ts](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day3/basic/type_interface_diff.ts)
+- #### class
+  실습파일 : [class.ts](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day3/basic/class.ts)
+
+### 실습 : 포켓몬 사이트 만들기
+
+실습파일 : [pokemon](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day3/pokemon)
