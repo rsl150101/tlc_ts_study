@@ -89,3 +89,17 @@
 ### 실습 : 포켓몬 사이트 만들기
 
 실습파일 : [pokemon](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day3/pokemon)
+
+## ✏️ 4일차
+
+> 3일차에서 만든 포켓몬 사이트 스크래핑하기
+
+### 설치 모듈
+
+- puppeteer : 크롤링, 스크래핑을 도와주는 모듈
+
+```bash
+npm i puppeteer
+```
+
+실습파일 : [app.ts](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day4/src/app.ts)
