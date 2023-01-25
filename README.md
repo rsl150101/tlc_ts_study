@@ -98,8 +98,8 @@
 
 - puppeteer : 크롤링, 스크래핑을 도와주는 모듈
 
-```bash
-npm i puppeteer
-```
+  ```bash
+  npm i puppeteer
+  ```
 
 실습파일 : [app.ts](https://github.com/rsl150101/tlc_tsc_study/blob/master/src/day4/src/app.ts)
